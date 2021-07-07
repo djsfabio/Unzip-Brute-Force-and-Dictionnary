@@ -6,7 +6,7 @@
 
 ## Objectif : 
 
-L’objectif de ce projet est de décompresser deux archives (l'une dans l'autre). La première est à décompresser avec  "Attaque par dictionnaire" et la seconde archive est à décompresser avec "Attaque par force brute". 
+L’objectif de ce projet est de décompresser deux archives (l'une dans l'autre). La première est à décompresser avec  "Attaque par dictionnaire" et la seconde archive est à décompresser avec "Attaque par force brute". Le mot de passe de la première archive est "correction" et celui de la seconde est "M@1l".
 
 ## L'Attaque par dictionnaire : 
 
@@ -19,6 +19,7 @@ Dès que le mot est trouvé, il est print dans la console et le temps nécessair
 ## L'Attaque par force brute :  
 
 L'attaque par force brute utilise tous les caractères possible pour essayer de "cracker" l'archive. Ainsi il va utiliser tous les caractères possibles dans un mot de passe d'archive (y compris le caractère espace). L'algorithme commence à deux caractères. Dès que le mot est trouvé, il est print dans la console et le temps nécessaire pour trouver le mot pour effectuer la décompression est affichée. 
+
 
 ## Utilisation 
 
