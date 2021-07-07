@@ -29,6 +29,6 @@ Suivre ensuite les indications directement sur le terminal.
 
 # Exemple de la sortie console : 
 
-![alt text](https://ibb.co/QnmvC1k)
+![alt text](https://github.com/djsfabio/Unzip-Brute-Force-and-Dictionnary/blob/master/ExempleGitHub.jpeg?raw=true)
 
 
