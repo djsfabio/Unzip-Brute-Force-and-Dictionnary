@@ -18,7 +18,7 @@ def attaqueBruteForce(str_zipFile, file_list, indexListFichier):
         if(incrementationBoucle == 16):
             chosetrue = False
         incrementationBoucle += 1
-        stockList = list(map(list, itertools.product('M' + string.digits + string.ascii_letters + string.punctuation + ' ', repeat=incrementationBoucle)))
+        stockList = list(map(list, itertools.product(string.digits + string.ascii_letters + string.punctuation + ' ', repeat=incrementationBoucle)))
         nouvelleListe = g(stockList)
         for motdepasse in nouvelleListe:
             # print(motdepasse)
